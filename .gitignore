@@ -1,0 +1,6 @@
+*.zip
+*.pdf
+*.pth
+.claude/
+__pycache__/
+.ipynb_checkpoints/
